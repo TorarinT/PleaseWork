@@ -1,4 +1,4 @@
 export default {
-    base: "/Forelesning2"
+    base: "/PleaseWork"
 
 }
