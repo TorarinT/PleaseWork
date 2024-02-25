@@ -26,7 +26,7 @@ function MapApplication() {
     return <>
         <header><h1>Map application</h1></header>
         <nav>Actions</nav>
-        <main ref={mapRef}>susssy</main>
+        <main ref={mapRef}>susssybaka</main>
     </>
 }
 
